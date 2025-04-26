@@ -1,6 +1,6 @@
 MediSphereAR 🧠📱
 From Raw Reports to 3D Organs — In Your Hands.
-
+Explore images of our MediSquareAR prototype - https://drive.google.com/drive/folders/11-LR_D0xeFAVsA-f3Fai9y_d_eEd0BtV?usp=drive_link
 🚀 Project Overview
 MediSphereAR is a revolutionary medical technology pipeline that transforms raw MRI and CT scan reports into patient-specific 3D organ models and brings them into Augmented Reality (AR).
 Designed for surgical planning, medical education, and patient understanding, MediSphereAR closes the gap between complex medical data and real-world visualization.
